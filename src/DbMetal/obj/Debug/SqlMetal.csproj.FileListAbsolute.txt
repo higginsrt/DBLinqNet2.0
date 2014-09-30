@@ -1,0 +1,6 @@
+C:\Users\higginsrt\Downloads\DbLinq-0.20.1-src\build.dbg\sqlmetal.exe.config
+C:\Users\higginsrt\Downloads\DbLinq-0.20.1-src\build.dbg\sqlmetal.exe
+C:\Users\higginsrt\Downloads\DbLinq-0.20.1-src\build.dbg\sqlmetal.pdb
+C:\Users\higginsrt\Downloads\DbLinq-0.20.1-src\src\DbMetal\obj\Debug\SqlMetal.csprojResolveAssemblyReference.cache
+C:\Users\higginsrt\Downloads\DbLinq-0.20.1-src\src\DbMetal\obj\Debug\sqlmetal.exe
+C:\Users\higginsrt\Downloads\DbLinq-0.20.1-src\src\DbMetal\obj\Debug\sqlmetal.pdb

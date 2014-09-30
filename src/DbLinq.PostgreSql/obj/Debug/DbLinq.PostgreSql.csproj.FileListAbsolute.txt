@@ -1,0 +1,1 @@
+C:\Users\higginsrt\Downloads\DbLinq-0.20.1-src\src\DbLinq.PostgreSql\obj\Debug\DbLinq.PostgreSql.csprojResolveAssemblyReference.cache

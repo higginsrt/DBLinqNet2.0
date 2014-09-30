@@ -1,0 +1,5 @@
+C:\Users\higginsrt\Downloads\DbLinq-0.20.1-src\src\DbLinq\obj\Debug - Mono Strict\DbLinq.csprojResolveAssemblyReference.cache
+C:\Users\higginsrt\Downloads\DbLinq-0.20.1-src\build.dbg.mono\DbLinq.dll
+C:\Users\higginsrt\Downloads\DbLinq-0.20.1-src\build.dbg.mono\DbLinq.pdb
+C:\Users\higginsrt\Downloads\DbLinq-0.20.1-src\src\DbLinq\obj\Debug - Mono Strict\DbLinq.dll
+C:\Users\higginsrt\Downloads\DbLinq-0.20.1-src\src\DbLinq\obj\Debug - Mono Strict\DbLinq.pdb

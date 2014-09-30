@@ -1,0 +1,5 @@
+C:\Users\higginsrt\Downloads\DbLinq-0.20.1-src\src\DbLinq.SqlServer\obj\Debug\DbLinq.SqlServer.csprojResolveAssemblyReference.cache
+C:\Users\higginsrt\Downloads\DbLinq-0.20.1-src\build.dbg\DbLinq.SqlServer.dll
+C:\Users\higginsrt\Downloads\DbLinq-0.20.1-src\build.dbg\DbLinq.SqlServer.pdb
+C:\Users\higginsrt\Downloads\DbLinq-0.20.1-src\src\DbLinq.SqlServer\obj\Debug\DbLinq.SqlServer.dll
+C:\Users\higginsrt\Downloads\DbLinq-0.20.1-src\src\DbLinq.SqlServer\obj\Debug\DbLinq.SqlServer.pdb

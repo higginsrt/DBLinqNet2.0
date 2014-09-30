@@ -1,0 +1,5 @@
+C:\Users\higginsrt\Downloads\DbLinq-0.20.1-src\src\Tools\TestReporter\bin\Debug\TestReporter.exe
+C:\Users\higginsrt\Downloads\DbLinq-0.20.1-src\src\Tools\TestReporter\bin\Debug\TestReporter.pdb
+C:\Users\higginsrt\Downloads\DbLinq-0.20.1-src\src\Tools\TestReporter\obj\Debug\TestReporter.csprojResolveAssemblyReference.cache
+C:\Users\higginsrt\Downloads\DbLinq-0.20.1-src\src\Tools\TestReporter\obj\Debug\TestReporter.exe
+C:\Users\higginsrt\Downloads\DbLinq-0.20.1-src\src\Tools\TestReporter\obj\Debug\TestReporter.pdb
